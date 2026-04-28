@@ -84,7 +84,7 @@ end)
 
 -- Floating Setting
 local Settings = Instance.new("Frame", ScreenGui)
-Settings.Size = UDim2.new(0,170,0,150)
+Settings.Size = UDim2.new(0,170,0,135)
 Settings.Position = UDim2.new(0.75,0,0.35,0)
 Settings.BackgroundColor3 = Color3.fromRGB(15,20,30)
 Settings.Visible = false
